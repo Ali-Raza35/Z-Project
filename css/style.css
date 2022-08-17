@@ -1,0 +1,167 @@
+/* body {
+	padding-top: 50px;	
+} */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.row1{
+    background:url(./bnaspati.jpeg);
+    margin: 5rem 10rem 0px;
+	background-size: 1000px;
+	background-repeat: no-repeat;
+	background-position: center;
+    height: 250px;
+    width: 800px;
+    border-radius: 50px;
+}
+.row2{
+    margin: 4rem 10rem 0px;
+    width: 500px;
+    height: 250px;
+    border: 0px solid green ;
+}
+.img1{
+    float: right;
+    width: 100px;
+    height:100px;
+    margin:  -35px 0px 0px;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color: green;
+}
+.img2{
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: -35px 0px 0px;
+}
+.btn1{
+    float: left;
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 70px -110px 10px;
+
+}
+.btn1:hover{
+    background-color: brown;
+}
+#button{
+    float: right;
+    margin: 70px -100px 10px;
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+}
+#button:hover{
+    background-color: brown;
+}
+.head{
+    margin: 0px 50px 30px;
+    color: blue;
+
+}
+.bnaspati{
+    border: 7px solid green;
+    margin: 0px 15rem 0px;
+    border-radius: 60px;
+    width: 830px;
+    height: 250px;
+    background-image: url(./bnaspati.jpeg);
+}
+.cooking{
+    border: 7px solid green;
+    margin: 0px 15rem 0px;
+    border-radius: 60px;
+    width: 830px;
+    height: 250px;
+    background-image: url(./makki.jpg);
+}
+.sun{
+    border: 7px solid green;
+    margin: 0px 15rem 0px;
+    border-radius: 60px;
+    width: 830px;
+    height: 250px;
+    background-image: url(./bajra.jpg);
+}
+.bnaspatii{
+    margin: 10px 6rem 0px;
+    -webkit-text-fill-color: white;
+}
+.oil{
+    margin: 10px 6rem 0px;
+    color: red;
+}
+#sun{
+    margin: 10px 6rem 0px;
+}
+#bnaspate{
+    background-image: url(./bnaspati.jpeg);
+}
+
+.row3{
+    background:url(./bajra.jpg);
+	margin: 5rem 10rem 0px;
+	background-size: 1000px;
+	background-repeat: no-repeat;
+	background-position: center;
+    height: 250px;
+    width: 800px;
+    border-radius: 50px;
+}
+.row5{
+    background:url(./makki.jpg);
+	margin: 5rem 10rem 0px;
+	background-size: 1000px;
+	background-repeat: no-repeat;
+	background-position: center;
+    height: 250px;
+    width: 800px;
+    border-radius: 50px;
+}
+
+.row4{
+    margin: 4rem 10rem 0px;
+    width: 500px;
+    height: 250px;
+    border: 0px solid green ;
+}
+.row6{
+    margin: 4rem 10rem 0px;
+    width: 500px;
+    height: 250px;
+    border: 0px solid green ;
+}
+body{
+    background-image: url(./ig.jpg);
+	background-size: 1000px;
+	background-repeat: inherit;
+	background-position: center;
+    background-size: 2000px;
+}
+
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: #333;
+	color: #fff;
+}
+
+#show th, #show td{
+	padding: 20px;
+}
+
+#btna td input{
+	width: 100%;
+}
+
+.info{
+    color: aqua;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
